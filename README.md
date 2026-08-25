@@ -7,11 +7,10 @@ This repository is a **listing only** — manuscripts and PDFs are **not** inclu
 
 | Edition | Price | Buy (Stripe on Amber HQ) |
 |---|---:|---|
-| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_local-seo-for-small-businesses_mt3bhiol&product=short) |
-| Complete | $29.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_local-seo-for-small-businesses_mt3bhiol&product=long) |
+| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_local-seo-for-small-businesses_mt3bhiol&product=short) |
+| Complete | $29.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_local-seo-for-small-businesses_mt3bhiol&product=long) |
 
-Full catalog: https://hq.amberoneai.com/store/ebooks  
-If a buy link is still deploying, open the store and select **Local SEO Mastery: Navigating AI-Powered Search Engines**.
+Or open the full catalog and select **Local SEO Mastery: Navigating AI-Powered Search Engines**: https://hq.amberoneai.com/store/ebooks
 
 ## About
 
